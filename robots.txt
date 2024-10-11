@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://seokulee.github.io/sitemap-index.xml
+Host: https://seokulee.github.io
